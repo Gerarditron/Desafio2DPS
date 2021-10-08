@@ -1,0 +1,8 @@
+Debido a que estuve teniendo muchos problemas con las librerias y
+arme mucho relajo de importaciones con todo y navegacion, queria
+asegurarme de su total funcionamiento, haciendo uso de Expo, 
+pero al final resulto que la libreria que use para reproducir en
+Youtube, solo funcionaba con React-Native-Cli asi que la de Expo
+quedo sin funcionar el reproductor de Youtube.
+
+Lamento las molestias - Gerardo Velasquez (VC190438)
